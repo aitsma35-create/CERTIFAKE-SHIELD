@@ -7,5 +7,5 @@ Statut : Confidentiel - Propriété Intellectuelle Sécurisée
 ​Entropie de Shannon Contextualisée (adaptation tactile/souris).  
 ​Loi de Fitts Dynamique (modèle Shannon ISO 9241-411).  
 ​Détection d'Anomalie Bayésienne Adaptative.  
-​Site officiel : www.certifake-shield.sol (ou ton domaine choisi).
+​Site officiel : www.certifake-shield.com (ou ton domaine choisi).
 ​© 2026 Projet CERTIFAKE - Tous droits réservés. Système d'authentification comportementale ZKP. 
