@@ -1,0 +1,22 @@
+[package]
+name = "certifake-shield"
+version = "3.0.0"
+description = "Moteur SYNA-PROTOC : Validation neuromotrice et ZKP sur Solana"
+edition = "2021"
+license = "Proprietary"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = "1.18"
+borsh = "0.10"
+thiserror = "1.0"
+# Extension pour le calcul d'entropie et de jerk
+num-traits = "0.2"
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1
+panic = "abort"
